@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="100mm"
+   height="20mm"
+   viewBox="0 0 100 20"
    version="1.1"
    id="svg5509"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="metaplex-logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +24,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.77771465"
-     inkscape:cx="77.149119"
+     inkscape:cx="-329.81248"
      inkscape:cy="483.46781"
      inkscape:window-width="2560"
      inkscape:window-height="1367"
@@ -52,13 +52,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="37.65242"
-       y="52.694439"
+       x="2.7673323"
+       y="14.509098"
        id="text52924"><tspan
          sodipodi:role="line"
          id="tspan52922"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cccccc;stroke-width:0.264583"
-         x="37.65242"
-         y="52.694439">NFTHeadshop</tspan></text>
+         x="2.7673323"
+         y="14.509098">NFTHeadshop</tspan></text>
   </g>
 </svg>
