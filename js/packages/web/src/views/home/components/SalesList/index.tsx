@@ -32,8 +32,8 @@ export const SalesListView = () => {
     <>
       <Banner
         src="/main-banner.svg"
-        headingText="Welcome to NFT Head Shop.."
-        subHeadingText="Buy curated NFTs from exclusive artists."
+        headingText="Buy heady art"
+        subHeadingText="Buy curated NFTs from exclusive artists"
         actionComponent={<HowToBuyModal buttonClassName="secondary-btn" />}
         useBannerBg
       />
